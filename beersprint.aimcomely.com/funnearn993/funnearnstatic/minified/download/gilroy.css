@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "Gilroy-b";
+	src: local("Gilroy-b"), url("../../../../funnearnstatic/fonts/new/gilroy-extrabold.otf") format("opentype")
+}
+
+@font-face {
+	font-family: "Gilroy";
+	src: local("Gilroy"), url("../../../../funnearnstatic/fonts/new/gilroy-regular.otf") format("opentype")
+}
+
+@font-face {
+	font-family: "Gilroy-l";
+	src: local("Gilroy-l"), url("../../../../funnearnstatic/fonts/new/gilroy-light.otf") format("opentype")
+}

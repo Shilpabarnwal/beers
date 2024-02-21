@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Belanosima';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/belanosima/v3/3y9k6bI8ejDo_3MfCDSLxAA.ttf) format('truetype');
+}
